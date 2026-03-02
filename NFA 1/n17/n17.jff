@@ -42,8 +42,8 @@
 			<read>0</read>&#13;
 		</transition>&#13;
 		<transition>&#13;
-			<from>1</from>&#13;
-			<to>2</to>&#13;
+			<from>3</from>&#13;
+			<to>1</to>&#13;
 			<read>1</read>&#13;
 		</transition>&#13;
 		<transition>&#13;
@@ -52,8 +52,8 @@
 			<read>1</read>&#13;
 		</transition>&#13;
 		<transition>&#13;
-			<from>3</from>&#13;
-			<to>1</to>&#13;
+			<from>1</from>&#13;
+			<to>2</to>&#13;
 			<read>1</read>&#13;
 		</transition>&#13;
 		<transition>&#13;
